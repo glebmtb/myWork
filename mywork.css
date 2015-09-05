@@ -1,32 +1,15 @@
-/*body {
-    background-color: #eaf3da;
-}
-
-.page-header {
-    border-bottom-color: #333;
-}
-*/
 #footer {
-    /*background-color: #675c47;*/
-    /*color: #efe5d0;*/
     text-align: center;
     padding: 15px;
     font-size: 90%;
     clear: right;
 }
 
-#header img{
-	width: 30%;
-	
-}
-
 #header {
     background-image: linear-gradient(to bottom, #6D89D5 0, #61B7CF 100%);
-    /*background-color: #A668D5;*/
     background-repeat: repeat-x;
     font-family: 'Gloria Hallelujah', cursive;
     height: 100px;
     margin-top: 10px;
-    /*padding-top: px;*/
     padding-left: 15px;
 }
